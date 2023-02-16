@@ -6,7 +6,7 @@
 
 [VISSZA](https://ciganyvajda2005.github.io/Szabo-Kristof-Portfolio-/).
 
-![kapcsolasirajz](kapcsolas.jpg"a kapcsolasi rajz")
+![kapcsolasirajz](kapocs.jpg"a kapcsolasi rajz")
 
 ## Az elkészült áramköreim többféle verzióban is:
 
