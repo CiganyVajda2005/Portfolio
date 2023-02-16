@@ -4,14 +4,6 @@ descreption: Kristóf készítette
 
 markdown: kramdown
 
-gem "hanuman"
-
-theme: hanuman
-
-$ bundle
-
-$ gem install hanuman
-
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
