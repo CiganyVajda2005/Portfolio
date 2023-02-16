@@ -6,11 +6,11 @@
 
 [VISSZA](https://ciganyvajda2005.github.io/Szabo-Kristof-Portfolio-/).
 
-![kapcsolasirajz](vez_led.gif"a kapcsolasi rajz")
+![kapcsolasirajz](kapcsolas.jpg"a kapcsolasi rajz")
 
 ## Az elkészült áramköreim többféle verzióban is:
 
-![fenykep](kesz.jpg "Az elkészült kapcsolás")
+![fenykep](done.jpg "Az elkészült kapcsolás")
 
 ## én a 12 voltos feladatot választottam melyhez a táblázatban lévő alkatrészekre volt szügségem
 
