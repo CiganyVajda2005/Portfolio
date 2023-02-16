@@ -1,5 +1,3 @@
-# fasz 
+# Szabó Kristóf portfolio
 
-|fasz|fasz|fasz|
-|----|----|----|
-|fasz|fasz|fasz|
+# 
