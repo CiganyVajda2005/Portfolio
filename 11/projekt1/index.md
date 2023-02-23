@@ -8,11 +8,11 @@
 
 ![kapcsolasirajz](kapocs.jpg "a kapcsolasi rajz")
 
-## Az elkészült áramköreim többféle verzióban is:
+## A munkám nem teljesen lett kész de viszont igényes lett egy normális szintű forrasztással.
 
 ![fenykep](done.jpg "Az elkészült kapcsolás")
 
-## én a 12 voltos feladatot választottam melyhez a táblázatban lévő alkatrészekre volt szügségem
+## én a 12 voltos feladatot választottam melyhez a táblázatban lévő alkatrészekre volt szügségem 
 
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
