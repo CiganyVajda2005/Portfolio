@@ -1,5 +1,4 @@
-# 2. Projekmunkám 
-
+<span style="color:#00FFFF"> 2.Projektmunkám </span>
 > készült: 2022.02.16.
 
 ## A projekt neve: Hídkapcsolás
@@ -8,4 +7,3 @@
 
 ![kapcsolasirajz](1.kep.png"a legelső kapcsolási rajz nyers változatban ")
 
-<span style="color:red"> *some emphasized markdown text*</span>
