@@ -7,5 +7,10 @@
 
 ![kapcsolasirajz](1.kep.png "a legelső kapcsolási rajz nyers változatban ").
 
+### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
+![kapcsolasirajz](2.kep.png "a második már le mért kapcsolási rajz ").
+
+### Ez már a végleges kapcsolási rajz a mért értékkel melyet Voltban mértünk.
+### Ezek után már az összeállítás következik 
 
