@@ -16,6 +16,8 @@
 
 ### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
+
+
 ## Alkatrész jegyzék
 
 |Név|Jelölés|Érték|darab|
@@ -30,8 +32,23 @@
 
 ![kapcsolasirajz2](2.kep.png "a második már le mért kapcsolási rajz ").
 
-### Ez már a végleges kapcsolási rajz a mért értékkel melyet Voltban mértünk. <br> Ezek után már az összeállítás következik 
+### Ez már a végleges kapcsolási rajz a mért értékkel melyet Voltban mértünk. Ez volt a szimulációs mérés. <br> Ezek után már az összeállítás következik 
+
+# Valós mérés folyamata:
+## kép1
+## kép2
+## kép3
+
+# Áramkör összeállíása:
+## kép1
+## kép2
+## kép3
+
+
 
 ![Szamitasok](szamitas.png "a második már le mért kapcsolási rajz ").
 ### Ezek a projekrhez való számítások melyeket word dokumentumban szerkeztettünk. <br> A számítások után a valós össze áíítás majd a valós mérés következik.
 
+# Önreflexió:
+## Kicsit meg gyűlt a bajom ezzel a projekttel a száítás egyes lépései okoztak némi nehézséget melyeket nem mindig tudtam meg oldani de egy kis át gondolás után sikerült megoldani
+## Sokat segített a projekt a feladat megértésében és megoldásában melyben sokat segített a szakmai tanárunk Danás Miklós Csaba tanárúr
