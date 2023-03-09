@@ -1,5 +1,6 @@
 # <span style="color:#000C66"> 2.Projektmunkám </span>
 > készült: 2022.02.16.
+<span style="color:#000C66"> [VISSZA](https://ciganyvajda2005.github.io/Szabo-Kristof-Portfolio-/). </span>
 
 # A projekt neve: Hídkapcsolás
 
@@ -9,7 +10,7 @@
 #### A másdik pont a valós mérés lesz melyet el készítünk laborban.
 #### A a harmadik lépés a számítás elkészítése mely lentebb megtalálható egy kép keretében.
 
-<span style="color:#000C66"> [VISSZA](https://ciganyvajda2005.github.io/Szabo-Kristof-Portfolio-/). </span>
+
 
 ![kapcsolasirajz](1.kep.png "a legelső kapcsolási rajz nyers változatban ").
 
