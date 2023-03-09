@@ -7,3 +7,5 @@
 
 ![kapcsolasirajz](1.kep.png"a legelső kapcsolási rajz nyers változatban ")
 
+
+
