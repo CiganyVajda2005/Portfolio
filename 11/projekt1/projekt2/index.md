@@ -17,6 +17,7 @@
 ### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
 ## Alkatrész jegyzék
+
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
 |Ellenállás|R1|1k|1|
