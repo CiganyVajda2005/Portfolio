@@ -5,8 +5,8 @@
 # A projekt neve: Hídkapcsolás
 
 ## Projekt ismertetése 
-### A projekt célja hogy el készítsünk egy kiegyenlítetlen Hídkapcsolást.
-#### A legelső pont hogy szimulációs méréssel el készítsük a Hídkapcsolást. (Tina programban)
+### A projekt célja hogy el készítsünk egy kiegyenlítetlen hídkapcsolást.
+#### A legelső pont hogy szimulációs méréssel el készítsük a hídkapcsolást. (Tina programban)
 #### A másdik pont a valós mérés lesz melyet el készítünk laborban.
 #### A a harmadik lépés a számítás elkészítése mely lentebb megtalálható egy kép keretében.
 
@@ -22,12 +22,12 @@
 
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
-|Ellenállás|R1|1k|1|
-|Ellenállás|R2|2K|1|
-|Ellenállás|R3|3K|1|
-|Ellenállás|R4|4K|1|
-|Ellenállás|R5|5K|1|
-|Feszültég|U|10V|1|
+|Ellenállás|R1|1 k|1|
+|Ellenállás|R2|2 K|1|
+|Ellenállás|R3|3 K|1|
+|Ellenállás|R4|4 K|1|
+|Ellenállás|R5|5 K|1|
+|Feszültég|U|10 V|1|
 |Feszültségmérő Műszer|U|645,16 mV|1|
 
 ![kapcsolasirajz2](2.kep.png "a második már le mért kapcsolási rajz ").
@@ -47,8 +47,8 @@
 
 
 ![Szamitasok](szamitas.png "a második már le mért kapcsolási rajz ").
-### Ezek a projekrhez való számítások melyeket word dokumentumban szerkeztettünk. <br> A számítások után a valós össze áíítás majd a valós mérés következik.
+### Ezek a projekrhez való számítások melyeket word dokumentumban szerkeztettünk. <br> A számítások után a valós összeáíítás majd a valós mérés következik.
 
 # Önreflexió:
-## Kicsit meg gyűlt a bajom ezzel a projekttel a száítás egyes lépései okoztak némi nehézséget melyeket nem mindig tudtam meg oldani de egy kis át gondolás után sikerült megoldani
-## Sokat segített a projekt a feladat megértésében és megoldásában melyben sokat segített a szakmai tanárunk Danás Miklós Csaba tanárúr
+## Kicsit meggyűlt a bajom ezzel a projekttel a száítás egyes lépései okoztak némi nehézséget melyeket nem mindig tudtam meg oldani de egy kis át gondolás után sikerült megoldani.
+## Sokat segített a projekt a feladat megértésében és megoldásában melyben sokat segített a szakmai tanárunk.
