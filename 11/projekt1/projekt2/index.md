@@ -9,8 +9,8 @@
 
 ### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
-![kapcsolasirajz](2.kep.png "a második már le mért kapcsolási rajz ").
+![kapcsolasirajz2](2.kep.png "a második már le mért kapcsolási rajz ").
 
-### Ez már a végleges kapcsolási rajz a mért értékkel melyet Voltban mértünk.
-### Ezek után már az összeállítás következik 
+### Ez már a végleges kapcsolási rajz a mért értékkel melyet Voltban mértünk. <br>Ezek után már az összeállítás következik </br>
 
+![Szamitasok](szamitas.png "a második már le mért kapcsolási rajz ").
