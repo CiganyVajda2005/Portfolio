@@ -16,10 +16,9 @@
 ### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
 ## Alkatrész jegyzék
-|Ellenállás|Volt mérő értéke|Feszültség|
-|   R1=1K  |    645,16 mV   |   10V    |
-|   R2=2K  |
-|   R3=3K  |
+|Név|Érték|Jelölés|Darabszám|
+|---|------|-------|---------|
+|Ellenállás|1K|R1|1db|
 
 ![kapcsolasirajz2](2.kep.png "a második már le mért kapcsolási rajz ").
 
