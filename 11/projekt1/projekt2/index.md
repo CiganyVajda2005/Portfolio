@@ -17,9 +17,15 @@
 ### A legelső nyers változatú kapcsolási rajz mely kisebb át alakításokkal meg kapjuk a végleges formát amit a végén mértünk.
 
 ## Alkatrész jegyzék
-|Név|Érték|Jelölés|Darabszám|
-|---|------|-------|---------|
-|Ellenállás|1K|R1|1db|
+|Név|Jelölés|Érték|darab|
+|----|----|----|------|
+|Ellenállás|R1|1k|1|
+|Ellenállás|R2|2K|1|
+|Ellenállás|R3|3K|1|
+|Ellenállás|R4|4K|1|
+|Ellenállás|R5|5K|1|
+|Feszültég|U|10V|1|
+|Feszültségmérő Műszer|U|645,16 mV|1|
 
 ![kapcsolasirajz2](2.kep.png "a második már le mért kapcsolási rajz ").
 
